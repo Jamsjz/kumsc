@@ -2,101 +2,101 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/cryptography/</loc>
+    <loc>/tags/cryptography/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/education/</loc>
+    <loc>/categories/education/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/entrepreneurship/</loc>
+    <loc>/tags/entrepreneurship/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/events/</loc>
+    <loc>/categories/events/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/hamroniwas/</loc>
+    <loc>/tags/hamroniwas/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/post-4/</loc>
+    <loc>/blog/post-4/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/kumc/</loc>
+    <loc>/tags/kumc/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/quantum/</loc>
+    <loc>/categories/quantum/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/quantum-computing/</loc>
+    <loc>/tags/quantum-computing/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/post-1/</loc>
+    <loc>/blog/post-1/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/sportscup/</loc>
+    <loc>/categories/sportscup/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/sportscup-2024/</loc>
+    <loc>/tags/sportscup-2024/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/upcoming/</loc>
+    <loc>/categories/upcoming/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/workshop/</loc>
+    <loc>/categories/workshop/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/post-2/</loc>
+    <loc>/blog/post-2/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/authors/5-avash/</loc>
+    <loc>/authors/3-arpan/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/2-avinash/</loc>
+    <loc>/authors/7-bhashkar/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/1-ayam/</loc>
+    <loc>/authors/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/</loc>
+    <loc>/contact/</loc>
   </url><url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>/elements/</loc>
   </url><url>
-    <loc>//localhost:1313/elements/</loc>
+    <loc>/authors/4-hritik/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/4-hritik/</loc>
+    <loc>/authors/2-kalakusum/</loc>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>//localhost:1313/pages/</loc>
+    <loc>/pages/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/pratik/</loc>
+    <loc>/authors/pratik/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/11-pratikshya/</loc>
+    <loc>/authors/11-pratikshya/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/12-priti/</loc>
+    <loc>/authors/12-priti/</loc>
   </url><url>
-    <loc>//localhost:1313/privacy-policy/</loc>
+    <loc>/privacy-policy/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/10-priya/</loc>
+    <loc>/authors/10-priya/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/3-ruby/</loc>
+    <loc>/authors/5-sabin/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/6-sandesh/</loc>
+    <loc>/authors/6-sandesh/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/7-sashuv/</loc>
+    <loc>/sections/</loc>
   </url><url>
-    <loc>//localhost:1313/sections/</loc>
+    <loc>/authors/9-shambhav/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/9-shambhav/</loc>
+    <loc>/authors/1-shubheeksha/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/8-supriya/</loc>
+    <loc>/authors/8-supriya/</loc>
   </url>
 </urlset>

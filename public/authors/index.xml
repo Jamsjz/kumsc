@@ -2,100 +2,100 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Committee on KUMSC</title>
-    <link>//localhost:1313/authors/</link>
+    <link>/authors/</link>
     <description>Recent content in Committee on KUMSC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arpan</title>
-      <link>//localhost:1313/authors/3-arpan/</link>
+      <link>/authors/3-arpan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/3-arpan/</guid>
+      <guid>/authors/3-arpan/</guid>
       <description>&lt;p&gt;General Secretary&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bhashkar Paudyal</title>
-      <link>//localhost:1313/authors/7-bhashkar/</link>
+      <link>/authors/7-bhashkar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/7-bhashkar/</guid>
+      <guid>/authors/7-bhashkar/</guid>
       <description>&lt;p&gt;Technical Lead&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hritik Chaudhary</title>
-      <link>//localhost:1313/authors/4-hritik/</link>
+      <link>/authors/4-hritik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/4-hritik/</guid>
+      <guid>/authors/4-hritik/</guid>
       <description>&lt;p&gt;Club Secretary&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kala Kusum</title>
-      <link>//localhost:1313/authors/2-kalakusum/</link>
+      <link>/authors/2-kalakusum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/2-kalakusum/</guid>
+      <guid>/authors/2-kalakusum/</guid>
       <description>&lt;p&gt;Vice President&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pratik Ray</title>
-      <link>//localhost:1313/authors/pratik/</link>
+      <link>/authors/pratik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/pratik/</guid>
+      <guid>/authors/pratik/</guid>
       <description>&lt;p&gt;Executive&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pratikshya Bhattarai</title>
-      <link>//localhost:1313/authors/11-pratikshya/</link>
+      <link>/authors/11-pratikshya/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/11-pratikshya/</guid>
+      <guid>/authors/11-pratikshya/</guid>
       <description>&lt;p&gt;Executive&lt;/p&gt;</description>
     </item>
     <item>
       <title>Priti Tamang</title>
-      <link>//localhost:1313/authors/12-priti/</link>
+      <link>/authors/12-priti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/12-priti/</guid>
+      <guid>/authors/12-priti/</guid>
       <description>&lt;p&gt;Executive&lt;/p&gt;</description>
     </item>
     <item>
       <title>Priya Jaiswal</title>
-      <link>//localhost:1313/authors/10-priya/</link>
+      <link>/authors/10-priya/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/10-priya/</guid>
+      <guid>/authors/10-priya/</guid>
       <description>&lt;p&gt;Executive&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sabin Pokharel</title>
-      <link>//localhost:1313/authors/5-sabin/</link>
+      <link>/authors/5-sabin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/5-sabin/</guid>
+      <guid>/authors/5-sabin/</guid>
       <description>&lt;p&gt;Treasurer&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sandesh Sapkota</title>
-      <link>//localhost:1313/authors/6-sandesh/</link>
+      <link>/authors/6-sandesh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/6-sandesh/</guid>
+      <guid>/authors/6-sandesh/</guid>
       <description>&lt;p&gt;Assistant Treasurer&lt;/p&gt;</description>
     </item>
     <item>
       <title>Shambhav Rayamajhi</title>
-      <link>//localhost:1313/authors/9-shambhav/</link>
+      <link>/authors/9-shambhav/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/9-shambhav/</guid>
+      <guid>/authors/9-shambhav/</guid>
       <description>&lt;p&gt;Executive&lt;/p&gt;</description>
     </item>
     <item>
       <title>Shubheeksha</title>
-      <link>//localhost:1313/authors/1-shubheeksha/</link>
+      <link>/authors/1-shubheeksha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/1-shubheeksha/</guid>
+      <guid>/authors/1-shubheeksha/</guid>
       <description>&lt;p&gt;President&lt;/p&gt;</description>
     </item>
     <item>
       <title>Supriya Baniya</title>
-      <link>//localhost:1313/authors/8-supriya/</link>
+      <link>/authors/8-supriya/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/8-supriya/</guid>
+      <guid>/authors/8-supriya/</guid>
       <description>&lt;p&gt;Executive&lt;/p&gt;</description>
     </item>
   </channel>
