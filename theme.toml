@@ -1,0 +1,41 @@
+name = "KUMSC"
+license = "MIT"
+description = "KUMSC WEBSITE"
+
+min_version = "0.121.2"
+
+tags = [
+  "KUMSC",
+  "Kathmandu University",
+  "Computational Mathematics",
+  "Data Science",
+  "CM",
+  "DSMA",
+  "KU Mathematics",
+  "blog",
+  "responsive",
+  "minimal",
+  "personal",
+  "light",
+  "dark",
+  "multilingual",
+  "landing",
+  "contact",
+  "dark mode",
+  "tailwindcss",
+]
+
+features = [
+  "Multi-Authors",
+  "Search",
+  "Multilingual",
+  "Dark Mode",
+  "Taxonomies",
+]
+
+[author]
+name = "KUMSC"
+
+
+[original]
+author = "KUMSC"
