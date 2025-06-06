@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KUMSC</title>
+    <link>/</link>
+    <description>Recent content on KUMSC</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HamroNiwas Entrepreneurship 101 Workshop</title>
+      <link>/blog/post-4/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>/blog/post-4/</guid>
+      <description>&lt;p&gt;Are you a Kathmandu University student eager to dive into the world of entrepreneurship? Look no further! HamroNiwas, your go-to hub for all things KU-related, is excited to announce an exclusive Entrepreneurship 101 Workshop just for you.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sports Week 2024 KUMSC</title>
+      <link>/blog/post-1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>/blog/post-1/</guid>
+      <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Workshop on Quantum Computing and Post Quantum Cryptography</title>
+      <link>/blog/post-2/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>/blog/post-2/</guid>
+      <description>&lt;p&gt;Join us in this workshop as we delve into groundbreaking research and explore emerging trends that are shaping the future of Quantum Computing and Post Quantum Cryptography. Featuring esteemed speakers, including Prof. Dr. Deepak Subedi and Dr. Gokul KC, alongside Mukesh Tiwari and Priyanka Panta. The latter two are CIMPA Scholars, CIMPA School on Post Quantum Cryptography, Pondicherry, India. This event promises unparalleled insights into the field of Quantum Computing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anurag Kafle</title>
+      <link>/authors/9-anurag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/9-anurag/</guid>
+      <description>&lt;p&gt;Executive&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Arpan Acharya</title>
+      <link>/authors/3-arpan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/3-arpan/</guid>
+      <description>&lt;p&gt;Club Secretary&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Arpita Karn</title>
+      <link>/authors/10-arpita/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/10-arpita/</guid>
+      <description>&lt;p&gt;Executive&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bhashkar Paudyal</title>
+      <link>/authors/5-bhashkar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/5-bhashkar/</guid>
+      <description>&lt;p&gt;Technical Lead&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Elements</title>
+      <link>/elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/elements/</guid>
+      <description>&lt;details class=&#34;table-of-content &#34;&gt;&#xA;  &lt;summary&gt;&#xA;    &#xA;      Table of Contents&#xA;    &#xA;  &lt;/summary&gt;&#xA;  &lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ol&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#heading-2&#34;&gt;Heading 2&lt;/a&gt;&#xA;      &lt;ol&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#heading-3&#34;&gt;Heading 3&lt;/a&gt;&#xA;          &lt;ol&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#heading-4&#34;&gt;Heading 4&lt;/a&gt;&#xA;              &lt;ol&gt;&#xA;                &lt;li&gt;&lt;a href=&#34;#heading-5&#34;&gt;Heading 5&lt;/a&gt;&lt;/li&gt;&#xA;              &lt;/ol&gt;&#xA;            &lt;/li&gt;&#xA;          &lt;/ol&gt;&#xA;        &lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#emphasis&#34;&gt;Emphasis&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#button&#34;&gt;Button&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#link&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#paragraph&#34;&gt;Paragraph&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#ordered-list&#34;&gt;Ordered List&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#unordered-list&#34;&gt;Unordered List&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#notice&#34;&gt;Notice&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#tab&#34;&gt;Tab&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#accordions&#34;&gt;Accordions&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#code-and-syntax-highlighting&#34;&gt;Code and Syntax Highlighting&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#blockquote&#34;&gt;Blockquote&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#tables&#34;&gt;Tables&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#image&#34;&gt;Image&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#gallery&#34;&gt;Gallery&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#slider&#34;&gt;Slider&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#youtube-video&#34;&gt;Youtube video&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#custom-video&#34;&gt;Custom video&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;/ol&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ol&gt;&#xA;&lt;/nav&gt;&#xA;&lt;/details&gt;&#xA;&#xA;&lt;p&gt;Here is an example of headings. You can use this heading by the following markdown rules. For example: use &lt;code&gt;#&lt;/code&gt; for heading 1 and use &lt;code&gt;######&lt;/code&gt; for heading 6.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kala Kusum</title>
+      <link>/authors/2-kalakusum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/2-kalakusum/</guid>
+      <description>&lt;p&gt;Vice President&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nayam Barun</title>
+      <link>/authors/11-nayam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/11-nayam/</guid>
+      <description>&lt;p&gt;Executive&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Perspectives on Mathematics Students Club</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pranis Pandey</title>
+      <link>/authors/6-pranis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/6-pranis/</guid>
+      <description>&lt;p&gt;Executive&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pranjal Man Shakya</title>
+      <link>/authors/12-pranjal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/12-pranjal/</guid>
+      <description>&lt;p&gt;Vice Treasurer&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pratik Ray</title>
+      <link>/authors/7-pratik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/7-pratik/</guid>
+      <description>&lt;p&gt;General Secretary&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/privacy-policy/</guid>
+      <description>&lt;h4 id=&#34;responsibility-of-contributors&#34;&gt;Responsibility of Contributors&lt;/h4&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ready to build your next project with Hugo?</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sabin Pokharel</title>
+      <link>/authors/4-sabin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/4-sabin/</guid>
+      <description>&lt;p&gt;Treasurer&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shubheeksha Shrestha</title>
+      <link>/authors/1-shubheeksha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/1-shubheeksha/</guid>
+      <description>&lt;p&gt;President&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sufal Kadariya</title>
+      <link>/authors/8-sufal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/8-sufal/</guid>
+      <description>&lt;p&gt;Executive&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
